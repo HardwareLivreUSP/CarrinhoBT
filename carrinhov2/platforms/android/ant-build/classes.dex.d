@@ -1,0 +1,23 @@
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes.dex : \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/com/megster/cordova/BluetoothSerial$1.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/com/megster/cordova/BluetoothSerial.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/com/megster/cordova/BluetoothSerialService$AcceptThread.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/com/megster/cordova/BluetoothSerialService$ConnectedThread.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/com/megster/cordova/BluetoothSerialService$ConnectThread.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/com/megster/cordova/BluetoothSerialService.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/io/cordova/hellocordova/BuildConfig.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/io/cordova/hellocordova/HelloCordova.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/io/cordova/hellocordova/R$attr.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/io/cordova/hellocordova/R$drawable.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/io/cordova/hellocordova/R$string.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/io/cordova/hellocordova/R$xml.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/io/cordova/hellocordova/R.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/meu/carrinho/BuildConfig.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/meu/carrinho/HelloCordova.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/meu/carrinho/R$attr.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/meu/carrinho/R$drawable.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/meu/carrinho/R$string.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/meu/carrinho/R$xml.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/meu/carrinho/R.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/classes/org/apache/cordova/api/Dummy.class \
+/Users/gabrielcapella/Desktop/Carrinho/platforms/android/ant-build/dexedLibs/classes-7f51a01f3e1d9703446af8524c315c51.jar \
